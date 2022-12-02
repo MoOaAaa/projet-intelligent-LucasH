@@ -12,3 +12,8 @@
 * [Création d'un chatbot](https://www.analyticsvidhya.com/blog/2021/10/complete-guide-to-build-your-ai-chatbot-with-nlp-in-python/)
 * [Création de deux chatbots (écrit et vocal)](https://www.mygreatlearning.com/blog/basics-of-building-an-artificial-intelligence-chatbot/)
 * [Tutoriel pour faire de la reconnaissance vocale](https://www.youtube.com/watch?v=mYUyaKmvu6Y)
+
+## Fiches projets inspirants :
+* [Fiche 1](https://docs.google.com/document/d/1HDp1hHuuP3zNhwEueXNYVu3FJA3YoYoBesLYlP_CwFI/edit?usp=sharing)
+* [Fiche 2](https://docs.google.com/document/d/1wBJRDmqQXdMpgHs--bKpvM6XGSo-EyIE1RklQi6OXKU/edit?usp=sharing)
+* [Fiche 3](https://docs.google.com/document/d/1i_FzMHwv3iOpIN6kA9-41SX0HSDAP9KFNLoDzEjfGz4/edit?usp=sharing)
