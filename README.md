@@ -9,7 +9,7 @@
 * [Application Audio de reconnaissance vocale sur AWS](https://github.com/musikalkemist/Deep-Learning-Audio-Application-From-Design-to-Deployment)
 * [Développement d'un CNN pour de la reconnaissance vocale](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi9p4Ll3tb7AhUcD1kFHbtWAJAQFnoECDwQAQ&url=https%3A%2F%2Fwww.mdpi.com%2F2076-3417%2F12%2F12%2F6223%2Fpdf&usg=AOvVaw2mmYtOuiTwGlZIG7YuUPqo)
 * [Voiture radiocommandée avec la voix en Arduino](https://how2electronics.com/wireless-voice-controlled-robot-car-using-arduino/)
-* [Création d'un chatbot](https://www.analyticsvidhya.com/blog/2021/10/complete-guide-to-build-your-ai-chatbot-with-nlp-in-python/)
+* [Tuto Tensorflow pour faire une simple reconnaissance vocale]([https://www.analyticsvidhya.com/blog/2021/10/complete-guide-to-build-your-ai-chatbot-with-nlp-in-python/](https://www.tensorflow.org/tutorials/audio/simple_audio))
 * [Création de deux chatbots (écrit et vocal)](https://www.mygreatlearning.com/blog/basics-of-building-an-artificial-intelligence-chatbot/)
 * [Tutoriel pour faire de la reconnaissance vocale](https://www.youtube.com/watch?v=mYUyaKmvu6Y)
 
