@@ -19,3 +19,6 @@
 * [Fiche 3](https://docs.google.com/document/d/1i_FzMHwv3iOpIN6kA9-41SX0HSDAP9KFNLoDzEjfGz4/edit?usp=sharing)
 
 ## [Fiche de formulation du projet](https://docs.google.com/document/d/1KM23Rs_aDn5-zBeyLUq8_jq5PTYdoDrRfLX1oVl09Gk/edit?usp=sharing)
+## [Fiche de sources de données](https://docs.google.com/document/d/1BvAwiH1RsGpJdr_aeIZc9OyK5-7yRB-YvJLiGOf7tjI/edit?usp=sharing)
+## [Fiche d'apprentissage](https://docs.google.com/document/d/1oKEiNnTTCAkK3mNuvqdFznjHWVXsSI6vF31WJ9HOWLg/edit?usp=sharing)
+## [Fiche de tests](https://docs.google.com/document/d/1oKEiNnTTCAkK3mNuvqdFznjHWVXsSI6vF31WJ9HOWLg/edit?usp=sharing)
